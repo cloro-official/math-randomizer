@@ -1,0 +1,47 @@
+From 5 Iterations with Sample Size 30 of Population Size 189:
+
+Iteration 1
+
+0. De Dios, Charles Aldrich
+1. Cabansag, Adara Riona
+2. Chua, Pierce Aldrich
+3. Forteza, Maya
+4. Tabafunda, Maria Sophia
+5. Joson, Victor Jaime
+-----
+Iteration 2
+
+0. Parulan, Jaana Claudia
+1. Agoncillo, Dina Lauren
+2. Tan, Jean-Rose Francene
+3. Gonzales, Isabela Marie
+4. Bacani, Kasey Mackene
+5. Piñon, Wigan Alberto
+-----
+Iteration 3
+
+0. De Leon, Pauline Anne
+1. Alupit, Ken Adrian
+2. Salido, Beatrice
+3. Rojas, Maria Alexandra
+4. Ferrer, Raphael Jacob
+5. Cambal, Maxine
+-----
+Iteration 4
+
+0. Salvador, Benjamin
+1. Abriol, Juliana
+2. Mallillin, Sophia Arwen
+3. Baylon, Gillian Noelle
+4. Pagaduan, Jenevieve
+5. Alcovendas, Sesjan Cyrus
+-----
+Iteration 5
+
+0. Abaya, Jammier Duane
+1. Turingan, Aaren Russel
+2. Lazo, Luis Romulo
+3. Mabalot, Lahdine Jeah
+4. Agdios, Ralph Leownard
+5. Marabut, Giuliana Marie
+-----
